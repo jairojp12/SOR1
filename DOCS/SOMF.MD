@@ -17,7 +17,7 @@ Windows es un sistema operativo creado por microsoft, los de microsoft sacaron w
 
 [¡Versiones de windows!](https://ca.wikipedia.org/wiki/Microsoft_Windows#L%C3%ADnia_de_temps_de_les_versions).
 
-**####GNU/LINUX**
+####**GNU/LIUNUX**
 Gnu/linux es un sistema operativo de cogigo abierto, multiplataforma, multiusuario, multitarea. Estos sistemas estan formados con una base de diferentes proyectos. Este sistema es un ejemplo de software libre, es decir, que su codigo fuente esta abierto a todo aquello que quiera utilizarlo, modificarlo y redistribucirlo. A partir de este sistema operativo las personas an conseguido desarrollar bastantes sistemas operativos, como por ejemplo: android.
 
 ![LOGO DE GNU/LINUX](https://diversistemas.files.wordpress.com/2015/10/gnulinux-logo.png).
@@ -25,3 +25,5 @@ Gnu/linux es un sistema operativo de cogigo abierto, multiplataforma, multiusuar
 **Principales distribuciones de linux:**
 
 [¡Principales distribuciones de linux!](https://es.wikipedia.org/wiki/GNU/Linux#Distribuciones).
+
+####
