@@ -45,3 +45,13 @@ IOS es el sistema operativo que tiene la empresa apple para utilizar en sus mobi
 **Algunas versiones de macOS:**
 
 [¡Versiones de macOS!](https://es.wikipedia.org/wiki/Historia_de_macOS#Historial_de_versiones).
+
+####SOLARIS
+
+Solaris es un sistema operativo de tipo Unix desarrollado desde 1992 inicialmente por Sun Microsystems y actualmente propiedad de Oracle Corporation tras la adquisición de Sun por parte de esta. Sucesor de SunOS, es un sistema certificado oficialmente como versión de UNIX. Funciona en arquitecturas SPARC y x86 para servidores y estaciones de trabajo.
+
+**ALGUNAS VERSIONES**
+
+[¡Versiones de SOLARIS!](https://es.wikipedia.org/wiki/Solaris_(sistema_operativo)#Versiones).
+
+![LOGO DE SOLARIS](https://es.wikipedia.org/wiki/Solaris_(sistema_operativo)#/media/Archivo:Aktualne_logo_Oracle_Solaris_OS_OSos.png).
