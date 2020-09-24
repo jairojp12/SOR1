@@ -38,3 +38,10 @@ Elementary:  Es una  version basada  en ubuntu, su primera version el 31 de marz
 
 
 ### Que es  unix? En que se diferencian unix de linux?
+
+**UNIX** 
+Es un sistema operativo portable, multitarea y multiusuario. Fue desarrollado en 1969 por un grupo de empleados de los laboratorios Bell de AT&T.
+
+**DIFERENCIAS ENTRE UNIX Y LINUX**
+
+Linux es un clon del sistema Unix original, aunque no contiene su código. Linux es solo el núcleo (kernel) del sistema, mientras que Unix es un sistema operativo completo. Linux fue desarrollado para ser ejecutado en PCs, mientras que Unix fue desarrollo principalmente para grandes estaciones de trabajo y servidores.
