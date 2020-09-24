@@ -35,3 +35,6 @@ Ubuntu: Es un sistema basado en debian, su primera version  salio el 20 de octub
 Debian: Se lanzo por primera vez el 15 de septiembre de 1993 auque la version estable se lanzo en 1996. La version actual de debian es la  numero 9(strech) lanzada  en 2017 mas concretamente el 17 de junio. Es la base de muchas otras distribuciones.
 
 Elementary:  Es una  version basada  en ubuntu, su primera version el 31 de marzo de 2011. Solo se puede instalar teniendo un procesador amd64bits , su licencia es de version gplv3. Ellos mismos dicen  que son un reemplazo para windows o macos.
+
+
+### Que es  unix? En que se diferencian unix de linux?
